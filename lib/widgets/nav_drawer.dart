@@ -15,7 +15,7 @@ class _NavDrawerState extends State<NavDrawer> {
             accountName: Text(
               "Saiful Islam",
             ),
-            accountEmail: Text("jitsm555@gmail.com"),
+            accountEmail: Text("test@gmail.com"),
             decoration: BoxDecoration(
               image: DecorationImage(
                 image: NetworkImage('https://raw.githubusercontent.com/saiful2396/saiful2396.github.io/master/shopping_assets/nav_drawer_image.png'),
